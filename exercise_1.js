@@ -14,8 +14,8 @@ typeof 15;
 // Actual: asdf
 
 typeof 5.5;
-// Prediction:
-// Actual:
+// Prediction: fdsa fdsa dfas
+// Actual: fdsa
 
 typeof NaN;
 // Prediction:
